@@ -90,7 +90,20 @@ ul {
  .img1{
     margin-top: 50px;
     margin-right: 50px;
+    padding-bottom: 10px;
   } 
+
+  .button{
+    display: inline-block;
+    padding: 10px 20px;
+        background-color: #808080;
+    color: #fff;
+        border: none;
+        border-radius: 8px; 
+        font-size: 16px;
+        cursor: pointer;
+  }
+  
 
   .footer{
     text-align: center;
